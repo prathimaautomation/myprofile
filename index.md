@@ -36,7 +36,7 @@ I was involved in fetching the orders from different customers using PROMIX, pla
 ### JNTU: Bachelor of Technology in Electronics and Communication Engineering
 
 ## Final Year Project:
-Prathima designed a Bidirectional Visitor Counter Circuit using 8051 microcontroller in her final year project to count the number of persons entering or leaving a room and to display it on a screen.
+I have designed a Bidirectional Visitor Counter Circuit using 8051 microcontroller in her final year project to count the number of persons entering or leaving a room and to display it on a screen.
 
 ### Year 1 Modules:
 Applied Physics, Network Theory, C & Data Structures, Semiconductor Devices and Circuits, Computers & Information Technology
@@ -47,4 +47,5 @@ Pulse and Digital Circuits, Switching Theory & Logic Design, Economics & Princip
 ### Year 3 Modules:
 TV Engineering, Computer Organization, Antenna & Wave Propagation, Linear & Digital Applications, Digital Communications, Microwave Engineering, Microprocessors & Microcontrollers, Operating Systems, Data & Computer Communications, Digital Signal Processing, VLSI Technology
 
-### Year 4 Modules: Object Oriented Programming through Java, Computer Networks, Radar Engineering, Optical Communications, Satellite Communication, Digital Image Processing, Cellular & Mobile Communications, Industrial Electronics 
+### Year 4 Modules:
+Object Oriented Programming through Java, Computer Networks, Radar Engineering, Optical Communications, Satellite Communication, Digital Image Processing, Cellular & Mobile Communications, Industrial Electronics 
